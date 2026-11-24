@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic>=2
+requests
+pandas
+numpy
+scikit-learn
+joblib
+pymupdf
+sentence-transformers
+faiss-cpu
+transformers
+sentencepiece
+accelerate
