@@ -16,6 +16,11 @@ The system combines:
 - Answer questions only from the uploaded documents (no hallucination).
 - Expose a clean FastAPI backend that can be used by any frontend or chatbot UI.
 
+## Demo / Screenshot
+
+<p align="center">
+  <img src="Output/Screenshot%202026-11-24%20200404.png" alt="AI Customer Support Assistant Demo" width="800"/>
+</p>
 ---
 
 ## Project Lifecycle & Tools Overview
