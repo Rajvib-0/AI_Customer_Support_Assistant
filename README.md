@@ -20,7 +20,11 @@ The system combines:
 
 <p align="center">
   <img src="Output/Screenshot%202026-11-24%20200404.png" alt="AI Customer Support Assistant Demo" width="800"/>
-</p>
+</p> 
+<p align="center">
+  <img src="Output/Screenshot%202026-11-24%20201430.png" alt="AI Customer Support Assistant Demo" width="800"/>
+</p> 
+
 ---
 
 ## Project Lifecycle & Tools Overview
