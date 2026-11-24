@@ -235,4 +235,3 @@ All important settings live in `backend_package/backend/config.py` and can be ov
 ## License
 
 This project is licensed under the **MIT License**.
-```
