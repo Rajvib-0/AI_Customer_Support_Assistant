@@ -1,0 +1,218 @@
+[
+  {
+    "source": "product_catalog.pdf",
+    "page": 1,
+    "section": "About this catalogue",
+    "text": "About this catalogue: NorthStar Store is a fictional online electronics retailer created for this internship demonstration. The products, prices, and policies in this document are illustrative and are not real offers.",
+    "embed_text": "Product Catalog. About this catalogue: NorthStar Store is a fictional online electronics retailer created for this internship demonstration. The products, prices, and policies in this document are illustrative and are not real offers.",
+    "chunk_id": 0
+  },
+  {
+    "source": "product_catalog.pdf",
+    "page": 1,
+    "section": "Laptop – NS Aero 14",
+    "text": "Laptop – NS Aero 14: Display: 14-inch Full HD display. Memory and storage: 16 GB RAM and 512 GB SSD. Connectivity: Wi-Fi 6 and Bluetooth 5.2. Ports: two USB-A ports, one USB-C port, and an HDMI port. Illustrative price: ₹54,999. Box contents: laptop, power adapter, and quick-start guide.",
+    "embed_text": "Product Catalog. Laptop – NS Aero 14: Display: 14-inch Full HD display. Memory and storage: 16 GB RAM and 512 GB SSD. Connectivity: Wi-Fi 6 and Bluetooth 5.2. Ports: two USB-A ports, one USB-C port, and an HDMI port. Illustrative price: ₹54,999. Box contents: laptop, power adapter, and quick-start guide.",
+    "chunk_id": 1
+  },
+  {
+    "source": "product_catalog.pdf",
+    "page": 1,
+    "section": "Smartphone – NS Nova 5G",
+    "text": "Smartphone – NS Nova 5G: Display: 6.5-inch OLED display. Memory and storage: 8 GB RAM and 128 GB storage. Camera: 50 MP main rear camera. Connectivity: 5G, Wi-Fi, and Bluetooth. Illustrative price: ₹24,999. Box contents: smartphone, USB-C cable, and SIM eject tool. Power adapter sold separately.",
+    "embed_text": "Product Catalog. Smartphone – NS Nova 5G: Display: 6.5-inch OLED display. Memory and storage: 8 GB RAM and 128 GB storage. Camera: 50 MP main rear camera. Connectivity: 5G, Wi-Fi, and Bluetooth. Illustrative price: ₹24,999. Box contents: smartphone, USB-C cable, and SIM eject tool. Power adapter sold separately.",
+    "chunk_id": 2
+  },
+  {
+    "source": "product_catalog.pdf",
+    "page": 1,
+    "section": "Wireless headphones – NS SoundWave",
+    "text": "Wireless headphones – NS SoundWave: Connection: Bluetooth 5.3. Battery: up to 30 hours of playback under manufacturer test conditions. Features: built-in microphone and active noise cancellation. Illustrative price: ₹4,499. Box contents: headphones, USB-C charging cable, and carry pouch.",
+    "embed_text": "Product Catalog. Wireless headphones – NS SoundWave: Connection: Bluetooth 5.3. Battery: up to 30 hours of playback under manufacturer test conditions. Features: built-in microphone and active noise cancellation. Illustrative price: ₹4,499. Box contents: headphones, USB-C charging cable, and carry pouch.",
+    "chunk_id": 3
+  },
+  {
+    "source": "product_catalog.pdf",
+    "page": 1,
+    "section": "Smartwatch – NS Pulse",
+    "text": "Smartwatch – NS Pulse: Display: 1.8-inch colour touchscreen. Features: step tracking, heart-rate display, sleep summaries, and phone notifications. Water resistance: splash resistant; not intended for swimming or diving. Illustrative price: ₹3,299. Compatibility: works with supported Android and iOS devices using the companion app.",
+    "embed_text": "Product Catalog. Smartwatch – NS Pulse: Display: 1.8-inch colour touchscreen. Features: step tracking, heart-rate display, sleep summaries, and phone notifications. Water resistance: splash resistant; not intended for swimming or diving. Illustrative price: ₹3,299. Compatibility: works with supported Android and iOS devices using the companion app.",
+    "chunk_id": 4
+  },
+  {
+    "source": "product_catalog.pdf",
+    "page": 1,
+    "section": "Product availability and recommendations",
+    "text": "Product availability and recommendations: Availability can change. The catalogue does not contain live inventory information. Customers should check the product page or contact support for current stock and delivery estimates. For product comparisons, compare display, memory, connectivity, compatibility, and intended use.",
+    "embed_text": "Product Catalog. Product availability and recommendations: Availability can change. The catalogue does not contain live inventory information. Customers should check the product page or contact support for current stock and delivery estimates. For product comparisons, compare display, memory, connectivity, compatibility, and intended use.",
+    "chunk_id": 5
+  },
+  {
+    "source": "refund_cancellation_policy.pdf",
+    "page": 1,
+    "section": "NorthStar Store – Refund & Cancellation Policy",
+    "text": "NorthStar Store – Refund & Cancellation Policy: This is a fictional policy created solely for the Northlanze internship demonstration. It is not a real retailer policy.",
+    "embed_text": "Refund Cancellation Policy. NorthStar Store – Refund & Cancellation Policy: This is a fictional policy created solely for the Northlanze internship demonstration. It is not a real retailer policy.",
+    "chunk_id": 6
+  },
+  {
+    "source": "refund_cancellation_policy.pdf",
+    "page": 1,
+    "section": "Order cancellation",
+    "text": "Order cancellation: A customer may request cancellation before the order is marked as shipped. Once an order has been handed to the delivery partner, cancellation through the online account may no longer be available. If the cancellation option is unavailable, the customer should contact support with the order number. Cancellation requests are not guaranteed until a confirmation is issued.",
+    "embed_text": "Refund Cancellation Policy. Order cancellation: A customer may request cancellation before the order is marked as shipped. Once an order has been handed to the delivery partner, cancellation through the online account may no longer be available. If the cancellation option is unavailable, the customer should contact support with the order number. Cancellation requests are not guaranteed until a confirmation is issued.",
+    "chunk_id": 7
+  },
+  {
+    "source": "refund_cancellation_policy.pdf",
+    "page": 1,
+    "section": "Refund eligibility",
+    "text": "Refund eligibility: A refund may be considered for an eligible cancelled order, a damaged item, an incorrect item, or an approved return. The item and request may be subject to inspection and eligibility checks. Items marked as non-returnable on their product page may not qualify for a standard return unless required by applicable law.",
+    "embed_text": "Refund Cancellation Policy. Refund eligibility: A refund may be considered for an eligible cancelled order, a damaged item, an incorrect item, or an approved return. The item and request may be subject to inspection and eligibility checks. Items marked as non-returnable on their product page may not qualify for a standard return unless required by applicable law.",
+    "chunk_id": 8
+  },
+  {
+    "source": "refund_cancellation_policy.pdf",
+    "page": 1,
+    "section": "Refund processing time",
+    "text": "Refund processing time: After approval, NorthStar Store aims to initiate the refund within 5–7 business days. After initiation, the time for the amount to appear depends on the bank, card issuer, or payment provider. The original payment method is normally used for the refund where supported.",
+    "embed_text": "Refund Cancellation Policy. Refund processing time: After approval, NorthStar Store aims to initiate the refund within 5–7 business days. After initiation, the time for the amount to appear depends on the bank, card issuer, or payment provider. The original payment method is normally used for the refund where supported.",
+    "chunk_id": 9
+  },
+  {
+    "source": "refund_cancellation_policy.pdf",
+    "page": 1,
+    "section": "How to request a refund",
+    "text": "How to request a refund: Contact customer support and provide the order number. Explain the reason for the request and provide photographs if the item is damaged or incorrect. Wait for the support team to confirm eligibility and next steps.",
+    "embed_text": "Refund Cancellation Policy. How to request a refund: Contact customer support and provide the order number. Explain the reason for the request and provide photographs if the item is damaged or incorrect. Wait for the support team to confirm eligibility and next steps.",
+    "chunk_id": 10
+  },
+  {
+    "source": "refund_cancellation_policy.pdf",
+    "page": 1,
+    "section": "Cancellation fees",
+    "text": "Cancellation fees: This demonstration policy does not specify a cancellation fee. The assistant must not invent one. If asked about a fee, it should say that the uploaded policy does not provide that information and recommend contacting support.",
+    "embed_text": "Refund Cancellation Policy. Cancellation fees: This demonstration policy does not specify a cancellation fee. The assistant must not invent one. If asked about a fee, it should say that the uploaded policy does not provide that information and recommend contacting support.",
+    "chunk_id": 11
+  },
+  {
+    "source": "refund_cancellation_policy.pdf",
+    "page": 1,
+    "section": "Information not covered",
+    "text": "Information not covered: This document does not specify a universal return window, restocking fee, or refund amount. The assistant must not guess these details.",
+    "embed_text": "Refund Cancellation Policy. Information not covered: This document does not specify a universal return window, restocking fee, or refund amount. The assistant must not guess these details.",
+    "chunk_id": 12
+  },
+  {
+    "source": "shipping_delivery_policy.pdf",
+    "page": 1,
+    "section": "NorthStar Store – Shipping & Delivery Policy",
+    "text": "NorthStar Store – Shipping & Delivery Policy: This is a fictional policy created solely for the Northlanze internship demonstration. It is not a real retailer policy.",
+    "embed_text": "Shipping Delivery Policy. NorthStar Store – Shipping & Delivery Policy: This is a fictional policy created solely for the Northlanze internship demonstration. It is not a real retailer policy.",
+    "chunk_id": 13
+  },
+  {
+    "source": "shipping_delivery_policy.pdf",
+    "page": 1,
+    "section": "Order processing",
+    "text": "Order processing: Orders are normally prepared for dispatch within 1–2 business days after payment confirmation. Orders placed on weekends or public holidays may begin processing on the next business day. Processing time is separate from transit time.",
+    "embed_text": "Shipping Delivery Policy. Order processing: Orders are normally prepared for dispatch within 1–2 business days after payment confirmation. Orders placed on weekends or public holidays may begin processing on the next business day. Processing time is separate from transit time.",
+    "chunk_id": 14
+  },
+  {
+    "source": "shipping_delivery_policy.pdf",
+    "page": 1,
+    "section": "Estimated delivery",
+    "text": "Estimated delivery: Metro locations: estimated 2–5 business days after dispatch. Other serviceable locations: estimated 4–8 business days after dispatch. These are estimates, not guarantees. Remote locations and exceptional conditions may require additional time.",
+    "embed_text": "Shipping Delivery Policy. Estimated delivery: Metro locations: estimated 2–5 business days after dispatch. Other serviceable locations: estimated 4–8 business days after dispatch. These are estimates, not guarantees. Remote locations and exceptional conditions may require additional time.",
+    "chunk_id": 15
+  },
+  {
+    "source": "shipping_delivery_policy.pdf",
+    "page": 1,
+    "section": "Shipping charges",
+    "text": "Shipping charges: The actual shipping charge, if any, is displayed at checkout before the customer places the order. This document does not define a fixed shipping fee or a free-shipping threshold.",
+    "embed_text": "Shipping Delivery Policy. Shipping charges: The actual shipping charge, if any, is displayed at checkout before the customer places the order. This document does not define a fixed shipping fee or a free-shipping threshold.",
+    "chunk_id": 16
+  },
+  {
+    "source": "shipping_delivery_policy.pdf",
+    "page": 1,
+    "section": "Tracking an order",
+    "text": "Tracking an order: After dispatch, a tracking link or tracking number is sent to the registered email address or phone number when available. Tracking information may take up to 24 hours after dispatch to become visible. Customers can also sign in to their account and open the Orders section.",
+    "embed_text": "Shipping Delivery Policy. Tracking an order: After dispatch, a tracking link or tracking number is sent to the registered email address or phone number when available. Tracking information may take up to 24 hours after dispatch to become visible. Customers can also sign in to their account and open the Orders section.",
+    "chunk_id": 17
+  },
+  {
+    "source": "shipping_delivery_policy.pdf",
+    "page": 1,
+    "section": "Changing a delivery address",
+    "text": "Changing a delivery address: A delivery address can be changed only while the order is still being processed and before dispatch. After dispatch, the customer should contact the delivery partner or customer support. A change may not be possible.",
+    "embed_text": "Shipping Delivery Policy. Changing a delivery address: A delivery address can be changed only while the order is still being processed and before dispatch. After dispatch, the customer should contact the delivery partner or customer support. A change may not be possible.",
+    "chunk_id": 18
+  },
+  {
+    "source": "shipping_delivery_policy.pdf",
+    "page": 1,
+    "section": "Delayed delivery",
+    "text": "Delayed delivery: If tracking has not updated for more than 48 hours, the customer should contact support with the order number. The support team can review the available tracking information and advise on the next step.",
+    "embed_text": "Shipping Delivery Policy. Delayed delivery: If tracking has not updated for more than 48 hours, the customer should contact support with the order number. The support team can review the available tracking information and advise on the next step.",
+    "chunk_id": 19
+  },
+  {
+    "source": "technical_support_guide.pdf",
+    "page": 1,
+    "section": "NorthStar Store – Technical Support Guide",
+    "text": "NorthStar Store – Technical Support Guide: This is a fictional troubleshooting guide created solely for the internship demonstration.",
+    "embed_text": "Technical Support Guide. NorthStar Store – Technical Support Guide: This is a fictional troubleshooting guide created solely for the internship demonstration.",
+    "chunk_id": 20
+  },
+  {
+    "source": "technical_support_guide.pdf",
+    "page": 1,
+    "section": "Unable to sign in",
+    "text": "Unable to sign in: Check that the email address is entered correctly. Use the Forgot Password option to request a password-reset link. Check the spam or junk folder if the reset email does not arrive. If the account remains inaccessible, contact support. Never share a password or one-time passcode.",
+    "embed_text": "Technical Support Guide. Unable to sign in: Check that the email address is entered correctly. Use the Forgot Password option to request a password-reset link. Check the spam or junk folder if the reset email does not arrive. If the account remains inaccessible, contact support. Never share a password or one-time passcode.",
+    "chunk_id": 21
+  },
+  {
+    "source": "technical_support_guide.pdf",
+    "page": 1,
+    "section": "Password reset email not received",
+    "text": "Password reset email not received: Confirm that the email address is associated with the account. Wait a few minutes and check spam or junk folders. Request a new reset email only after the previous request has had time to arrive. If the issue continues, contact support with the account email address, but do not send the password.",
+    "embed_text": "Technical Support Guide. Password reset email not received: Confirm that the email address is associated with the account. Wait a few minutes and check spam or junk folders. Request a new reset email only after the previous request has had time to arrive. If the issue continues, contact support with the account email address, but do not send the password.",
+    "chunk_id": 22
+  },
+  {
+    "source": "technical_support_guide.pdf",
+    "page": 1,
+    "section": "Payment appears unsuccessful",
+    "text": "Payment appears unsuccessful: Check the order history before attempting payment again. Check with the bank or payment provider to see whether the transaction is pending. If money appears to have been debited but no order confirmation was received, contact support with the transaction reference. Do not share full card details, PINs, or OTPs.",
+    "embed_text": "Technical Support Guide. Payment appears unsuccessful: Check the order history before attempting payment again. Check with the bank or payment provider to see whether the transaction is pending. If money appears to have been debited but no order confirmation was received, contact support with the transaction reference. Do not share full card details, PINs, or OTPs.",
+    "chunk_id": 23
+  },
+  {
+    "source": "technical_support_guide.pdf",
+    "page": 1,
+    "section": "Device or app troubleshooting",
+    "text": "Device or app troubleshooting: Check that the device has a stable internet connection. Close and reopen the application. Check whether an application update is available from the official app store. Restart the device if the issue continues.",
+    "embed_text": "Technical Support Guide. Device or app troubleshooting: Check that the device has a stable internet connection. Close and reopen the application. Check whether an application update is available from the official app store. Restart the device if the issue continues.",
+    "chunk_id": 24
+  },
+  {
+    "source": "technical_support_guide.pdf",
+    "page": 1,
+    "section": "When to contact support",
+    "text": "When to contact support: Contact support if the issue continues after the suggested checks. Include the device model, application version, a brief description of the issue, and any non-sensitive error message. Do not include passwords, one-time passcodes, full payment-card numbers, or other authentication secrets.",
+    "embed_text": "Technical Support Guide. When to contact support: Contact support if the issue continues after the suggested checks. Include the device model, application version, a brief description of the issue, and any non-sensitive error message. Do not include passwords, one-time passcodes, full payment-card numbers, or other authentication secrets.",
+    "chunk_id": 25
+  },
+  {
+    "source": "technical_support_guide.pdf",
+    "page": 1,
+    "section": "Limitations",
+    "text": "Limitations: This guide does not provide device-specific repair instructions, guaranteed resolution times, or live service-status information.",
+    "embed_text": "Technical Support Guide. Limitations: This guide does not provide device-specific repair instructions, guaranteed resolution times, or live service-status information.",
+    "chunk_id": 26
+  }
+]
